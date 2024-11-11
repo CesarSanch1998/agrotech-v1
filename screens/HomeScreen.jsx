@@ -7,8 +7,8 @@ export default function Overview() {
   const navigation = useNavigation();
 
   return (
-    <View>
-      <Text>HomeScreen Views</Text>
+    <View className='flex-row justify-center mt-10'>
+      <Text className='text-gray-400 font-bold text-2xl'>HomeScreen Views</Text>
     </View>
   );
 }
