@@ -1,0 +1,1 @@
+#Aqui se colocara todo lo referente a consultas api y request a base de datos en general , se crearan 1 o mas archivos para mantener todo separado
