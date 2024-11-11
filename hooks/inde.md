@@ -1,0 +1,1 @@
+#Aqui se colocaran los archivos con los custom hooks que se creen con la intencion de dar acciones y funciones a ciertas cosas , se puede igual hacerlo en el codigo del componente en si pero tratar en la mejor medida que todo se separe 
